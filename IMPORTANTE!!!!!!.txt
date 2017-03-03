@@ -1,0 +1,7 @@
+Para mis trabajos yo utilizo el localhost:8000 puede ser que para que ejecute tengas que cambiar la direccion 
+puesta en config.php
+
+Yo puse:
+	$config['base_url'] = 'http://localhost:8000/tarea6/index.php';
+
+Es la linea 26
